@@ -1,0 +1,2 @@
+# PythonForJune
+Just Practicing
